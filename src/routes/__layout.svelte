@@ -25,10 +25,10 @@
 <footer class="footer-container">
   <div>
     Created by <a
-      aria-label="Open the Rodney Lab site"
-      href="https://rodneylab.com/"
+      aria-label="Open the Kevin MacKenzie site"
+      href="https://thekevinmackenzie.com/"
       target="_blank"
-      rel="noopener noreferrer">Rodney Lab</a
+      rel="noopener noreferrer">Kevin MacKenzie</a
     >. Copyright {COPYRIGHT_ENTITY} 2021–2022.
   </div>
   <nav class="footer-icons">
@@ -40,26 +40,26 @@
         >
       </li>
       <li class="hover-jump">
-        <ExternalLink ariaLabel="Go to the Rodney Lab Facebook Page" href={facebookPage}
+        <ExternalLink ariaLabel="Go to the Kevin MacKenzie Facebook Page" href={facebookPage}
           ><FacebookIcon /></ExternalLink
         >
       </li>
       <li class="hover-jump">
         <ExternalLink
-          ariaLabel="Go to the Rodney Lab Twitter Page"
+          ariaLabel="Go to the Kevin MacKenzie Twitter Page"
           href={`https://twitter.com/intent/user?screen_name=${twitterUsername}`}
           ><TwitterIcon /></ExternalLink
         >
       </li>
       <li class="hover-jump">
         <ExternalLink
-          ariaLabel="Go to the Rodney Lab Linked In Page"
+          ariaLabel="Go to the Kevin MacKenzie Linked In Page"
           href={`https://uk.linkedin.com/in/${linkedinProfile}`}><LinkedinIcon /></ExternalLink
         >
       </li>
       <li class="hover-jump">
         <ExternalLink
-          ariaLabel="Go to the Rodney Lab Git Hub In Page"
+          ariaLabel="Go to the Kevin MacKenzie Git Hub In Page"
           href={`https://github.com/${githubPage}`}><GitHubIcon /></ExternalLink
         >
       </li>

@@ -5,17 +5,17 @@
 
 <div class="container">
   A project by <a
-    aria-label="Open the Rodney Lab site"
+    aria-label="Open the Kevin MacKenzie site"
     href="https://rodneylab.com/"
     target="_blank"
     rel="noopener noreferrer"
-    ><img alt="Rodney Lab Logo" src="/assets/rodneylab-logo.png" height="16" width="16" /></a
+    ><img alt="Kevin MacKenzie Logo" src="/assets/rodneylab-logo.png" height="16" width="16" /></a
   >
   <a
-    aria-label="Open the Rodney Lab site"
-    href="https://rodneylab.com/"
+    aria-label="Open the Kevin MacKenzie site"
+    href="https://thekevinmackenzie.com"
     target="_blank"
-    rel="noopener noreferrer"><span class="rodneylab-text">RODNEY LAB</span></a
+    rel="noopener noreferrer"><span class="rodneylab-text">Kevin MacKenzie</span></a
   >.
 </div>
 
