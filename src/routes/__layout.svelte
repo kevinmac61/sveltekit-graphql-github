@@ -24,18 +24,18 @@
 </main>
 <footer class="footer-container">
   <div>
-    Created by <a
+    Forked by <a
       aria-label="Open the Kevin MacKenzie site"
       href="https://thekevinmackenzie.com/"
       target="_blank"
       rel="noopener noreferrer">Kevin MacKenzie</a
-    >. Copyright {COPYRIGHT_ENTITY} 2021–2022.
+    >. Copyright {COPYRIGHT_ENTITY} 2022.
   </div>
   <nav class="footer-icons">
     <ul>
       <li class="hover-jump">
         <ExternalLink
-          ariaLabel="Go to the Rodney Lab Tik Tok Page"
+          ariaLabel="Go to the Kevin MacKenzie Tik Tok Page"
           href={`https://www.tiktok.com/${tiktokUsername}`}><TiktokIcon /></ExternalLink
         >
       </li>

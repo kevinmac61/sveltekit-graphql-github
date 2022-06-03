@@ -4,19 +4,17 @@
 </script>
 
 <div class="container">
-  A project by <a
+  A project forked by <a
     aria-label="Open the Kevin MacKenzie site"
-    href="https://rodneylab.com/"
+    href="https://thekevinmackenzie.com"
     target="_blank"
     rel="noopener noreferrer"
-    ><img alt="Kevin MacKenzie Logo" src="/assets/rodneylab-logo.png" height="16" width="16" /></a
-  >
+    ><img alt="Kevin MacKenzie Logo" src="/assets/rodneylab-logo.png" height="16" width="16" /></a>
   <a
     aria-label="Open the Kevin MacKenzie site"
     href="https://thekevinmackenzie.com"
     target="_blank"
-    rel="noopener noreferrer"><span class="rodneylab-text">Kevin MacKenzie</span></a
-  >.
+    rel="noopener noreferrer"><span class="rodneylab-text">Kevin MacKenzie</span></a>.
 </div>
 
 <style lang="scss">
