@@ -11,7 +11,7 @@
   import FacebookIcon from '$lib/components/Icons/Facebook.svelte';
   import GitHubIcon from '$lib/components/Icons/GitHub.svelte';
   import LinkedinIcon from '$lib/components/Icons/LinkedIn.svelte';
-  import RodneyLabCredit from '$lib/components/RodneyLabCredit.svelte';
+  import KevinMacKenzieCredit from '$lib/components/KevinMacKenzieCredit.svelte';
   import TiktokIcon from '$lib/components/Icons/Tiktok.svelte';
   import TwitterIcon from '$lib/components/Icons/Twitter.svelte';
   import website from '$lib/config/website';
@@ -65,7 +65,7 @@
       </li>
     </ul>
   </nav>
-  <RodneyLabCredit />
+  <KevinMacKenzieCredit />
 </footer>
 
 <style lang="scss">

@@ -9,7 +9,7 @@
         'Content-Type': 'application/json',
       },
       body: JSON.stringify({
-        limit: 5,
+        limit: 1,
       }),
     });
     const { data } = await res.json();
